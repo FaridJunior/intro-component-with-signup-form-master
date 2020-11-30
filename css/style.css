@@ -203,8 +203,8 @@ form input[type="submit"]:focus {
   }
   main .form-area .flash {
     width: 20rem;
-    padding-left: 6rem;
-    padding-right: 6rem;
+    padding-left: 5.4rem;
+    padding-right: 5.4rem;
   }
   form input {
     height: 2.4rem;
