@@ -181,7 +181,7 @@ form input[type="submit"]:focus {
 @media (max-width: 50rem) {
   main {
     flex-direction: column;
-    padding: 4rem 2rem;
+    padding: 4rem 2.5rem;
     gap: 4rem;
   }
   body::before {
@@ -202,13 +202,13 @@ form input[type="submit"]:focus {
     gap: 1.4rem;
   }
   main .form-area .flash {
-    width: 22rem;
+    width: 20rem;
     padding-left: 6rem;
     padding-right: 6rem;
   }
   form input {
     height: 2.4rem;
-    width: 18rem;
+    width: 16rem;
     padding: 1rem;
     border-radius: 4px;
     border: 1px solid var(--grayish-blue);
